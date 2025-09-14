@@ -11,10 +11,10 @@ Selamat datang di repositori untuk proyek Capstone saya dalam program **Hacktiv8
 Berikut adalah tampilan dari website portofolio yang sudah jadi:
 
 *Tampilan Desktop*
-![Desktop View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite=AI/main/assets/9.png)
+![Desktop View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite-AI/main/assets/9.png)
 
 *Tampilan Mobile*
-![Mobile View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite=AI/main/assets/9.png)
+![Mobile View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite-AI/main/assets/9.png)
 
 ---
 
