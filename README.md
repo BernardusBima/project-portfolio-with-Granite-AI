@@ -2,9 +2,19 @@
 
 Selamat datang di repositori untuk proyek Capstone saya dalam program **Hacktiv8 & IBM Student Developer Initiative**. Proyek ini adalah website portofolio pribadi yang responsif, dibuat untuk menunjukkan keahlian dan proyek-proyek saya.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/deploy-status)](https://app.netlify.com/sites/nama-situs-anda/deploys)
-
 **🔗 Link Website Live:** [https://portofolioprojectbima.netlify.app/]
+
+---
+
+## 📸 Tampilan Proyek (Screenshots)
+
+Berikut adalah tampilan dari website portofolio yang sudah jadi:
+
+*Tampilan Desktop*
+![Desktop View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite=AI/main/assets/9.png)
+
+*Tampilan Mobile*
+![Mobile View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite=AI/main/assets/9.png)
 
 ---
 
