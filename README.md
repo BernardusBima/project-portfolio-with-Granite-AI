@@ -14,7 +14,7 @@ Berikut adalah tampilan dari website portofolio yang sudah jadi:
 ![Desktop View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite-AI/main/assets/9.png)
 
 *Tampilan Mobile*
-![Mobile View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite-AI/main/assets/9.png)
+![Mobile View](https://raw.githubusercontent.com/BernardusBima/project-portfolio-with-Granite-AI/main/assets/8.png)
 
 ---
 
